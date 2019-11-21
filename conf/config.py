@@ -3,16 +3,16 @@
 import os
 
 # account
-ADMIN_ACCOUNT = "admin@lwbottest02"
-DOMAIN_ID = 10123847
+ADMIN_ACCOUNT = "admin@nwetest.com"
+DOMAIN_ID = 7
 
 # api
-API_ID = "jp1MvOxVtgDem"
-CONSUMER_KEY = "pF1NgtwoOv19NytB5ovX"
+API_ID = "kr1FeMnWUxZgm"
+CONSUMER_KEY = "hWzGu_tRSWZLfxQbmLXM"
 
 TOKEN = None
-SERVER_ID = "f7cecbb969b74579b90390406412108f"
-PRIVATE_KEY_NAME = "private_20191115210109.key"
+SERVER_ID = "d7c9d6e71c6d4034b0b3ec8d7dd570bd"
+PRIVATE_KEY_NAME = "private_20191121163527.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://samplebot-app.herokuapp.com/"
